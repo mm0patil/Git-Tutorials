@@ -1,0 +1,13 @@
+.App{
+  max-width: 50%;
+  margin: auto;
+}
+.Task{
+  margin-left: 10px;
+}
+.delete{
+  font-size: 14px;
+  color:black;
+  background-color: red;
+  
+}
